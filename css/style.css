@@ -1,0 +1,17 @@
+div{
+    height: 2px ;
+    width: ;
+    color: black;
+}
+.horizontal-line{
+    margin-top: 100px;
+    width: 1000px;
+    height: 1px;
+    background-color: silver;
+}
+.line1{
+    margin-top: 110px;
+    width: 1000px;
+    height: 1px;
+    background-color: silver;
+}
